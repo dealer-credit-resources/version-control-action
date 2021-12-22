@@ -1,0 +1,32 @@
+{
+  "name": "bump-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dealer-credit-resources/version-control-action.git"
+  },
+  "keywords": [
+    "dcr",
+    "bump",
+    "version"
+  ],
+  "author": "Pablo Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dealer-credit-resources/version-control-action/issues"
+  },
+  "homepage": "https://github.com/dealer-credit-resources/version-control-action#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "execa": "^6.0.0",
+    "prettier": "^2.5.1",
+    "standard": "^16.0.4",
+    "tiny-glob": "^0.2.9"
+  }
+}
